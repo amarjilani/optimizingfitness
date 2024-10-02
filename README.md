@@ -1,2 +1,4 @@
-# optimizingfitness
-Data-Driven Modeling for Fitness Optimization
+# Optimizing Fitness - Data-Driven Modeling for Fitness Optimization
+
+
+This study delves into optimizing workout strategies using the Endomondo social fitness application dataset, addressing the gap in personalized exercise regimens. Focusing on three key questions, we developed five distinct models: two (an Ordinary Least Squares model and an artificial neural network) for predicting average heart rate, another OLS model for estimating calorie expenditure, a Random Forest classifier for sport type identification, and a collaborative filter-based model to recommend new sports and connect users. Our findings reveal the OLS models’ effectiveness in predicting calories burned, while highlighting limitations in heart rate prediction due to the complex, non-linear nature of the data. The Random Forest classifier successfully categorized sports types, indicating the potential for enhanced personalized workout recommendations. The collaborative filter successfully produced sport recommendations and potential user-user connections. To fully measure the effectiveness of these recommendations, however, user input is still required. This research contributes to the evolving field of fitness technology, emphasizing the importance of tailored workout plans for improved health outcomes.
